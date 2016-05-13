@@ -1,0 +1,61 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ikonix.com" resolutions="1x" timestamp="1463144038480">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="240419882" ref="contact-us:extech-(eec):slaughter-company-(sci):about:associated-research-(ar):our-brands:associated-power-technologies-(apt):index"/>
+    <file name="contact-us.css" crc="112881669" ref="contact-us"/>
+    <file name="extech-_eec_.css" crc="3932591047" ref="extech-(eec)"/>
+    <file name="slaughter-company-_sci_.css" crc="3946194961" ref="slaughter-company-(sci)"/>
+    <file name="about.css" crc="4233685744" ref="about"/>
+    <file name="associated-research-_ar_.css" crc="3922628649" ref="associated-research-(ar)"/>
+    <file name="our-brands.css" crc="232232237" ref="our-brands"/>
+    <file name="associated-power-technologies-_apt_.css" crc="4007824111" ref="associated-power-technologies-(apt)"/>
+    <file name="index.css" crc="3962489837" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="aptlogo-withname.eps" crc="3776781892" seo="true" mt="1452528728000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:our-brands:about:contact-us:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="museutils.js" crc="3790713428" ref="index:our-brands:about:contact-us:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="whatinput.js" crc="84559013" ref="index:our-brands:about:contact-us:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="pie.js" crc="3827607177" ref="index:our-brands:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:our-brands:about:contact-us:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:our-brands:about:contact-us:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:our-brands:about:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:our-brands:about:contact-us:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+  </folder>
+  <folder name="images">
+    <file name="ikonix group-01.png" crc="299306200" seo="true" ref="index:our-brands:about:contact-us:associated-power-technologies-(apt):associated-research-(ar):extech-(eec):slaughter-company-(sci)"/>
+    <file name="eec-sci-apt-ar-instruments.jpg" crc="4114384851" ref="index"/>
+    <file name="ikonixtriangle.png" crc="269020363" seo="true" ref="index"/>
+    <file name="arrow-button.png" crc="216878616" seo="true" ref="index"/>
+    <file name="greeninitiativetile.jpg" crc="186132131" seo="true" ref="index"/>
+    <file name="womanhandshaking.png" crc="423147618" seo="true" ref="index"/>
+    <file name="ourbrands-header.jpg" crc="256129174" ref="our-brands"/>
+    <file name="eec-sci-apt-ar-instruments.png" crc="3868634704" seo="true" ref="our-brands"/>
+    <file name="sci design file-01.png" crc="3973460930" seo="true" ref="our-brands:slaughter-company-(sci)"/>
+    <file name="aptlogo-01.png" crc="4127838971" seo="true" ref="our-brands"/>
+    <file name="ar logo - no tagline.png" crc="3869975377" seo="true" ref="our-brands:associated-research-(ar)"/>
+    <file name="eec.png" crc="299244064" seo="true" ref="our-brands:extech-(eec)"/>
+    <file name="aboutheader.jpg" crc="241365608" ref="about"/>
+    <file name="howikonixeffectsyou.jpg" crc="3876188150" seo="true" ref="about"/>
+    <file name="about-coworkers.jpg" crc="4183240077" ref="about"/>
+    <file name="apt-header-1700.jpg" crc="153849367" ref="associated-power-technologies-(apt)"/>
+    <file name="aptlogo-withname-01.png" crc="3790300508" seo="true" ref="associated-power-technologies-(apt)"/>
+    <file name="apt-units.jpg" crc="3766296220" seo="true" ref="associated-power-technologies-(apt)"/>
+    <file name="ar-instruments.jpg" crc="433761097" seo="true" ref="associated-research-(ar)"/>
+    <file name="ar-header-1700.jpg" crc="372650208" ref="associated-research-(ar)"/>
+    <file name="eec-header-1700.jpg" crc="3843413212" ref="extech-(eec)"/>
+    <file name="eec-unit.jpg" crc="66796262" seo="true" ref="extech-(eec)"/>
+    <file name="sci-header-1700.jpg" crc="4040379909" ref="slaughter-company-(sci)"/>
+    <file name="sci-units.jpg" crc="4265293969" seo="true" ref="slaughter-company-(sci)"/>
+  </folder>
+  <file name="index.html" crc="3990780914" seo="true" mt="1463058495206" redirect="true"/>
+  <file name="our-brands.html" crc="467280684" seo="true" mt="1463143796938" redirect="true"/>
+  <file name="about.html" crc="211022337" seo="true" mt="1462904633321" redirect="true"/>
+  <file name="contact-us.html" crc="4202441757" seo="true" mt="1462904633321" redirect="true"/>
+  <file name="associated-power-technologies-(apt).html" crc="516691547" seo="true" mt="1463060738914" redirect="true"/>
+  <file name="associated-research-(ar).html" crc="4165068073" seo="true" mt="1463060757182" redirect="true"/>
+  <file name="extech-(eec).html" crc="356485940" seo="true" mt="1463060770972" redirect="true"/>
+  <file name="slaughter-company-(sci).html" crc="4077385225" seo="true" mt="1463060783929" redirect="true"/>
+</manifest>
